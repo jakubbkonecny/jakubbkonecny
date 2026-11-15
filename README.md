@@ -1,7 +1,6 @@
-# Hi, I'm Jakub Konečný 
+# Hi, my name is Jakub Konečný
 
-**3rd-Year Business Informatics Student @ Technical University of Košice (TUKE)**  
-Focused on **Business Analysis, Data Analytics, and Process Automation**. I enjoy bridging the gap between business requirements and practical technical solutions.
+I'm a **3rd-Year Business Informatics student at the Technical University of Košice (TUKE)**, focused on **Business Analysis, Data Analytics, and Process Automation**. I enjoy bridging the gap between business requirements and practical technical solutions.
 
 ---
 
