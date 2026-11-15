@@ -1,4 +1,4 @@
-# Hi, I'm Jakub Konečný 👋
+# Hi, I'm Jakub Konečný 
 
 **3rd-Year Business Informatics Student @ Technical University of Košice (TUKE)**  
 Focused on **Business Analysis, Data Analytics, and Process Automation**. I enjoy bridging the gap between business requirements and practical technical solutions.
@@ -15,7 +15,7 @@ Focused on **Business Analysis, Data Analytics, and Process Automation**. I enjo
 ###  Featured Projects
 *(Note: Source code repositories are kept private, feel free to reach out for a live demo or walkthrough.)*
 
-#### 1. Magna DocCheck AI *(24-Hour Magna Hackathon)*
+#### 1. Magna DocCheck AI *(24-Hour Magna Hackathon, Team project)*
 - **Problem:** Manual verification of mandatory fields, attachments, metadata, and document structure in controlled documentation often uncovers errors late during the approval stage, leading to returned documents and repeated revisions.
 - **Solution:** Built an automated document completeness checker for Magna Kechnec. Upon uploading a PDF or Word document, the system automatically checks structural compliance, identifies missing information and rule discrepancies using AI, and generates a clear summary of detected issues—ensuring complete, higher-quality submissions on the first attempt and speeding up the approval workflow.
 - **Tech Stack:** Python, JavaScript, HTML/CSS, Google Gemini AI
