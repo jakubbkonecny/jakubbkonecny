@@ -8,7 +8,7 @@ Focused on **Business Analysis, Data Analytics, and Process Automation**. I enjo
 ###  Skills & Tools
 - **Programming & Web:** Python, SQL, Java, JavaScript, HTML5, CSS3
 - **AI & Productivity:** AI Tools & LLM Integration, Microsoft Excel, Microsoft Word
-- **Version Control & IDEs:** Git, GitHub, Visual Studio Code, WebStorm
+- **Version Control & IDEs:** Git, GitHub, Visual Studio Code, WebStorm, Pycharm
 
 ---
 
