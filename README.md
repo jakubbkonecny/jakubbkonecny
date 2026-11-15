@@ -5,33 +5,38 @@ Focused on **Business Analysis, Data Analytics, and Process Automation**. I enjo
 
 ---
 
-### 🛠️ Tech Stack & Analytical Tools
-* **Programming & Data:** Python, SQL, JavaScript (ES6+), HTML5/CSS3
-* **Frameworks & APIs:** FastAPI, React, REST APIs, LLM Integration (Google Gemini API)
-* **Business & CRM Tools:** Salesforce, Microsoft Excel, Git, BPMN, Requirements Analysis
+### 🛠️ Skills & Tools
+- **Programming & Web:** Python, SQL, Java, JavaScript, HTML5, CSS3
+- **AI & Productivity:** AI Tools & LLM Integration (Google Gemini), Microsoft Excel, Microsoft Word
+- **Version Control & IDEs:** Git, GitHub, Visual Studio Code, WebStorm
 
 ---
 
 ### 🚀 Featured Projects
-*(Note: Source code repositories are kept private, feel free to reach out for a live demo or architectural walkthrough.)*
+*(Note: Source code repositories are kept private, feel free to reach out for a live demo or walkthrough.)*
 
-#### 1. Magna DocuCheck AI *(24-Hour Hackathon Project – Team 404)*
-* **Problem:** Manual verification of automotive PPAP compliance documentation is time-consuming and prone to human error.
-* **Solution:** Built an automated document validation prototype during a 24-hour hackathon for Magna Kechnec. The system extracts text from uploaded PDF documents, checks file naming conventions, and audits completeness against compliance rules using AI.
-* **Tech Stack:** Python, FastAPI, React (Vite), Google Gemini API
+#### 1. Magna DocCheck AI *(24-Hour Magna Hackathon – Team 404)*
+- **Problem:** Manual verification of mandatory fields, attachments, metadata, and document structure in controlled documentation often uncovers errors late during the approval stage, leading to returned documents and repeated revisions.
+- **Solution:** Built an automated document completeness checker for Magna Kechnec. Upon uploading a PDF or Word document, the system automatically checks structural compliance, identifies missing information and rule discrepancies using AI, and generates a clear summary of detected issues—ensuring complete, higher-quality submissions on the first attempt and speeding up the approval workflow.
+- **Tech Stack:** Python, JavaScript, HTML/CSS, Google Gemini AI
 
-#### 2. Unilink – Student & Industry Connection Platform
-* **Problem:** Disconnect between university students seeking practical experience and local IT/business companies looking for junior talent.
-* **Solution:** Designed a stakeholder-oriented platform prototype for the *Business Informatics in Practice* course. Conducted requirements analysis across three key groups (students, companies, and university faculty) to structure workflows and user journeys.
-* **Role:** Business & Requirements Analysis, System Design
+#### 2. Automotive Fault Diagnostic Expert System
+- **Problem:** Helping non-technical drivers identify potential vehicle faults based on observable symptoms.
+- **Solution:** Developed a rule-based web diagnostic system utilizing multi-choice decision trees (20 diagnostic questions mapped to 8 fault hypotheses) with real-time statistical probability output.
+- **Tech Stack:** JavaScript, HTML5, CSS3
 
-#### 3. Automotive Fault Diagnostic Expert System
-* **Problem:** Helping non-technical drivers identify potential vehicle faults based on observable symptoms.
-* **Solution:** Developed a rule-based web diagnostic system utilizing multi-choice decision trees (20 diagnostic questions mapped to 8 fault hypotheses) with real-time statistical probability output.
-* **Tech Stack:** JavaScript (ES6+), HTML5, CSS3
+#### 3. Time Management Web Application
+- **Problem:** Need for a lightweight, distraction-free tool to organize daily tasks and track priorities.
+- **Solution:** Built an interactive task and schedule management web application with dynamic task filtering and status tracking.
+- **Tech Stack:** JavaScript, HTML5, CSS3
+
+---
+
+### 🎓 Current Focus
+- **Bachelor's Thesis:** *Artificial Intelligence Methods for Anomaly Detection in Cybersecurity and Streaming Data* (Python)
 
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/jakub-konecny](https://www.linkedin.com/in/jakub-konečný-4ab6ab3b8/)
-* **Location:** Košice / Prešov, Slovakia
+- **LinkedIn:** [linkedin.com/in/jakub-konecny](https://www.linkedin.com/in/jakub-konečný-4ab6ab3b8/)
+- **Location:** Košice / Prešov, Slovakia
