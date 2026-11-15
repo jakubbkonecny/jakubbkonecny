@@ -1,3 +1,5 @@
+## About Me
+
 Hi, my name is **Jakub** and I'm a **3rd-Year Business Informatics Student at the Technical University of Košice (TUKE)**, focused on **Business Analysis, Data Analytics, and Process Automation**. I enjoy bridging the gap between business requirements and practical technical solutions.
 
 ---
