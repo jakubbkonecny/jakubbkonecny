@@ -5,17 +5,17 @@ Focused on **Business Analysis, Data Analytics, and Process Automation**. I enjo
 
 ---
 
-### 🛠️ Skills & Tools
+###  Skills & Tools
 - **Programming & Web:** Python, SQL, Java, JavaScript, HTML5, CSS3
-- **AI & Productivity:** AI Tools & LLM Integration (Google Gemini), Microsoft Excel, Microsoft Word
+- **AI & Productivity:** AI Tools & LLM Integration, Microsoft Excel, Microsoft Word
 - **Version Control & IDEs:** Git, GitHub, Visual Studio Code, WebStorm
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 *(Note: Source code repositories are kept private, feel free to reach out for a live demo or walkthrough.)*
 
-#### 1. Magna DocCheck AI *(24-Hour Magna Hackathon – Team 404)*
+#### 1. Magna DocCheck AI *(24-Hour Magna Hackathon)*
 - **Problem:** Manual verification of mandatory fields, attachments, metadata, and document structure in controlled documentation often uncovers errors late during the approval stage, leading to returned documents and repeated revisions.
 - **Solution:** Built an automated document completeness checker for Magna Kechnec. Upon uploading a PDF or Word document, the system automatically checks structural compliance, identifies missing information and rule discrepancies using AI, and generates a clear summary of detected issues—ensuring complete, higher-quality submissions on the first attempt and speeding up the approval workflow.
 - **Tech Stack:** Python, JavaScript, HTML/CSS, Google Gemini AI
@@ -32,11 +32,11 @@ Focused on **Business Analysis, Data Analytics, and Process Automation**. I enjo
 
 ---
 
-### 🎓 Current Focus
+###  Current Focus
 - **Bachelor's Thesis:** *Artificial Intelligence Methods for Anomaly Detection in Cybersecurity and Streaming Data* (Python)
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 - **LinkedIn:** [linkedin.com/in/jakub-konecny](https://www.linkedin.com/in/jakub-konečný-4ab6ab3b8/)
 - **Location:** Košice / Prešov, Slovakia
